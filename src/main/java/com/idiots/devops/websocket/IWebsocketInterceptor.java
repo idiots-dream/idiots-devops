@@ -15,7 +15,7 @@ import java.util.Map;
 /**
  * @author blue-light
  * Date 2022-10-09
- * Description
+ * Description websocket拦截器
  */
 @Slf4j
 public class IWebsocketInterceptor implements HandshakeInterceptor {

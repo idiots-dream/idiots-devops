@@ -12,7 +12,7 @@ import javax.annotation.Resource;
 /**
  * @author blue-light
  * Date 2022-10-09
- * Description
+ * Description websocket处理器
  */
 @Slf4j
 @Component
